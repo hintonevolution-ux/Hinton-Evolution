@@ -13,6 +13,7 @@ export default defineConfig(({mode}) => {
       },
     },
     server: {
+      
       hmr: process.env.DISABLE_HMR !== 'true',
     },
     build: {
