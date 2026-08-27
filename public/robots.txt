@@ -1,0 +1,71 @@
+# Robots.txt for Hinton Evolution Tech
+# Website: https://hintonevolution.com
+
+# Global Crawlers
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Major Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /favicon.png
+Allow: /icon.png
+Allow: /og-image.jpg
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin
+
+User-agent: Applebot
+Allow: /
+Disallow: /admin
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /admin
+
+User-agent: YandexBot
+Allow: /
+Disallow: /admin
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /admin
+
+# AI & Generative Search Engine Crawlers (GEO Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Sitemaps
+Sitemap: https://hintonevolution.com/sitemap.xml
+Sitemap: https://www.hintonevolution.com/sitemap.xml
+
+# Host
+Host: https://hintonevolution.com
