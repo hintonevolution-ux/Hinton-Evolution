@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hintonevolution.com/sitemap.xml
