@@ -1,39 +1,20 @@
 # Hinton Evolution Tech
 
-> Enterprise-Grade Web Solutions for Ambitious Brands. Premium website design, full-stack development, speed optimization, and digital management.
+> Enterprise-Grade Web Solutions for Ambitious Brands. Premium website design, full-stack development, speed optimization, and digital management based in Durgapur, West Bengal, India.
 
-## About the Company
-- **Company Name**: Hinton Evolution Tech
-- **Website**: https://hintonevolution.com
-- **Headquarters / Location**: Durgapur, West Bengal, India (PIN: 713216)
-- **Primary Contact Email**: hintonevolution@gmail.com
-- **Phone**: +91 98327 27520
-- **WhatsApp Support**: +91 80018 91036 (https://wa.me/918001891036)
-- **Service Areas**: Durgapur, Kolkata, West Bengal, All India, and International Clients (United States, United Kingdom, UAE, Global).
+## Core Pages
 
-## Core Capabilities & Services
-1. **Custom Website Design & Development**: Modern, high-performance websites built with React, Vite, Next.js, and Tailwind CSS.
-2. **E-Commerce Development**: Conversion-optimized online stores with secure payment gateway integrations (UPI, Cards, Net Banking, Razorpay, Stripe).
-3. **Website Redesign & Speed Optimization**: Sub-second loading speed, 95+ Google PageSpeed score optimization, and UX audits.
-4. **Search Engine & Generative Engine Optimization (SEO & GEO)**: Technical SEO, structured data (JSON-LD), local search ranking, and AI search visibility.
-5. **Website Maintenance & Support**: 24/7 uptime monitoring, security patching, monthly content updates, and cloud backups.
+- [Homepage](https://hintonevolution.com/): Enterprise-grade website design and development agency overview, value proposition, and client showcase.
+- [Services](https://hintonevolution.com/services): Full breakdown of custom web development, e-commerce stores, SEO/GEO optimization, and website maintenance.
+- [Works and Portfolio](https://hintonevolution.com/works): Case studies, live web design projects, client platforms, and technical demonstrations.
+- [Pricing and 0% EMI Plans](https://hintonevolution.com/pricing): Transparent website design packages including Starter (₹24,999), Business (₹44,999), Enterprise (₹89,999), and 6-month 0% interest EMI options.
+- [About Us and Team](https://hintonevolution.com/about): Information about Hinton Evolution Tech, engineering leadership, and company background located in Durgapur, West Bengal.
+- [Frequently Asked Questions (FAQ)](https://hintonevolution.com/faq): Answers regarding project turnaround times, technologies, client revisions, CMS control, and post-launch support.
+- [Contact and Consultation](https://hintonevolution.com/contact): Direct contact options via WhatsApp (+91 80018 91036), phone (+91 98327 27520), email (hintonevolution@gmail.com), and inquiry forms.
+- [Company Policy](https://hintonevolution.com/policy): Privacy policy, service standards, terms of service, refund policy, and cancellation guidelines.
 
-## Pricing Plans & EMI
-- **Starter Website Plan**: ₹24,999 (or 6-Month 0% Interest EMI from ₹4,166/mo with 40% advance) - Ideal for local businesses, portfolios, and startups.
-- **Business Scale Plan**: ₹44,999 (or 6-Month 0% Interest EMI from ₹7,499/mo with 40% advance) - Multi-page corporate sites, dynamic animations, SEO setup, and CRM integration.
-- **Enterprise / E-Commerce Plan**: ₹89,999 (or 6-Month 0% Interest EMI from ₹14,999/mo with 40% advance) - Custom high-scale web platforms, e-commerce stores, custom dashboards, and high security.
+## Optional Resources
 
-## Technology Stack
-- **Frontend**: React 18, Next.js, TypeScript, Tailwind CSS, Framer Motion, HTML5, Modern CSS.
-- **Backend & Cloud**: Node.js, Express, Firebase, Google Cloud, Cloudflare CDN.
-- **Architecture**: Single Page Applications (SPA), Server-Side Rendering (SSR), Serverless, Progressive Web Apps (PWA).
-
-## Key URLs
-- **Homepage**: https://hintonevolution.com/
-- **Services**: https://hintonevolution.com/services
-- **Portfolio & Works**: https://hintonevolution.com/works
-- **Pricing & Packages**: https://hintonevolution.com/pricing
-- **About Us**: https://hintonevolution.com/about
-- **FAQ**: https://hintonevolution.com/faq
-- **Contact & Consultations**: https://hintonevolution.com/contact
-- **Company Policy**: https://hintonevolution.com/policy
+- [Sitemap](https://hintonevolution.com/sitemap.xml): Complete XML sitemap index of all public web pages.
+- [WhatsApp Direct Support](https://wa.me/918001891036): Instant sales and project consultation channel.
+- [Email Inquiries](mailto:hintonevolution@gmail.com): Official email contact channel for project RFPs.
